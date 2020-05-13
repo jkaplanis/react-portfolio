@@ -1,25 +1,30 @@
-import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import React, { useEffect } from "react";
+import Nav from "./components/Nav";
+import Header from "./components/Header";
+import AboutMe from "./components/AboutMe";
+import Resume from "./components/Resume";
+import Portfolio from "./components/Portfolios";
+import Footer from "./components/Footer";
+import Modals from "./components/Modals";
 
 function App() {
+  useEffect(() => {
+    const script = document.createElement("script");
+
+    script.src = "js/scripts.js";
+
+    document.body.appendChild(script);
+  }, []);
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <>
+      <Nav />
+      <Header />
+      <AboutMe />
+      <Resume />
+      <Portfolio />
+      <Footer />
+      <Modals />
+    </>
   );
 }
 

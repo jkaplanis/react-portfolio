@@ -1,0 +1,56 @@
+[
+  {
+    "id": "portfolioModal1",
+    "title": "What's Up There?",
+    "img": "assets/img/portfolio/whatsupthere.png",
+    "alt": "whats up there",
+    "description": "An app that finds the satellites in orbit above you and allows you to track your favorites. The app shows the user's current city and displays markers of all satellites currently above them. When you click the links a modal is opened displaying more details and an option to bookmark that satellite. Bookmarked satellites are stored in the side bar and you can click on any to get their next visual pass over your location. Go to the map page and see a satellite image of your location with the names and coordinates of the satellites as they are positioned above you. Search by category on the home page to see what's up there!",
+    "demoLink": "https://whats-up-there.herokuapp.com/",
+    "repoLink": "https://github.com/SeeShell/whats-up-there"
+  },
+  {
+    "id": "portfolioModal2",
+    "title": "COVID-19 Tracker",
+    "img": "assets/img/portfolio/covid19.png",
+    "alt": "covid 19",
+    "description": "The COVID-19 app produces accurate data on COVID-19 confirmed cases, deaths, and recoveries worldwide as well as by specific country. In addition to regularly updated stats, users can find current trending news articles from around the world related to COVID-19. In the search bar at the top of the window, users can search any country and see stats and trending news stories for that country. Easily accessible links to the previous searches and the home page can be found by clicking the hamburger icon.",
+    "demoLink": "https://jkaplanis.github.io/covid19-tracker/",
+    "repoLink": "https://github.com/jkaplanis/covid19-tracker"
+  },
+  {
+    "id": "portfolioModal3",
+    "title": "Employee Directory",
+    "img": "assets/img/portfolio/employee-directory.png",
+    "alt": "employee directory",
+    "description": "An employee directory built with React that ingests data via axios and produces a sortable and searchable table. Every column is filtered with each key stroke providing instant results.",
+    "demoLink": "https://jkaplanis.github.io/react-user-directory/",
+    "repoLink": "https://github.com/jkaplanis/react-user-directory"
+  },
+  {
+    "id": "portfolioModal4",
+    "title": "Day Planner",
+    "img": "assets/img/portfolio/day-planner.png",
+    "alt": "day planner",
+    "description": "An app that allows users to add tasks to their calendar for the day while keeping track of the current time.",
+    "demoLink": "https://jkaplanis.github.io/day-planner/",
+    "repoLink": "https://github.com/jkaplanis/day-planner"
+  },
+  {
+    "id": "portfolioModal5",
+    "title": "Burger Logger",
+    "img": "assets/img/portfolio/burger-logger.png",
+    "alt": "burger",
+    "description": "This is a burger logger built with MySQL, Node, Express, and Handlebars. Burgers are added to the database via the form and updated to the devoured column by clicking the devour it button. ",
+    "demoLink": "https://salty-brushlands-08932.herokuapp.com/",
+    "repoLink": "https://github.com/jkaplanis/burger"
+  },
+  {
+    "id": "portfolioModal6",
+    "title": "Weather Dashboard",
+    "img": "assets/img/portfolio/weather-dashboard.png",
+    "alt": "weather",
+    "description": "A weather dashboard app that uses ajax calls to produce same day weather and a 5-day forecast for a given city. Data is persisted via local storage.",
+    "demoLink": "https://jkaplanis.github.io/weather-dashboard/",
+    "repoLink": "https://github.com/jkaplanis/weather-dashboard"
+  }
+]

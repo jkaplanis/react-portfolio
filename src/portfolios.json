@@ -1,0 +1,38 @@
+[
+  {
+    "href": "#portfolioModal1",
+    "coverimage": "assets/img/portfolio/stars.jpg",
+    "title": "What's Up There?",
+    "alt": "stars"
+  },
+  {
+    "href": "#portfolioModal2",
+    "coverimage": "assets/img/portfolio/virus.jpg",
+    "title": "COVID-19 Tracker",
+    "alt": "virus"
+  },
+  {
+    "href": "#portfolioModal3",
+    "coverimage": "assets/img/portfolio/employee-directory.png",
+    "title": "Employee Directory",
+    "alt": "employee directory"
+  },
+  {
+    "href": "#portfolioModal4",
+    "coverimage": "assets/img/portfolio/calendar.png",
+    "title": "Day Planner",
+    "alt": "calendar"
+  },
+  {
+    "href": "#portfolioModal5",
+    "coverimage": "assets/img/portfolio/burger.jpg",
+    "title": "Burger Tracker",
+    "alt": "burger"
+  },
+  {
+    "href": "#portfolioModal6",
+    "coverimage": "assets/img/portfolio/weather.png",
+    "title": "Weather Dasboard",
+    "alt": "weather"
+  }
+]
