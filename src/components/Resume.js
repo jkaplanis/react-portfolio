@@ -111,7 +111,7 @@ function Resume() {
                 Resume
               </span>
               <a
-                href="../../public/assets/img/resume/john-kaplanis-resume.pdf"
+                href="assets/img/resume/john-kaplanis-resume.pdf"
                 target="_blank"
               >
                 pdf
@@ -137,7 +137,7 @@ function Resume() {
             <li>
               ...Find a more complete list on my{" "}
               <a
-                href="../../public/assets/img/resume/john-kaplanis-resume.pdf"
+                href="assets/img/resume/john-kaplanis-resume.pdf"
                 target="_blank"
               >
                 resume
