@@ -110,7 +110,12 @@ function Resume() {
               >
                 Resume
               </span>
-              <a href="#">pdf</a>
+              <a
+                href="../../public/assets/img/resume/john-kaplanis-resume.pdf"
+                target="_blank"
+              >
+                pdf
+              </a>
             </p>
           </div>
         </div>
@@ -130,7 +135,13 @@ function Resume() {
             <li>React</li>
             <li>MongoDB</li>
             <li>
-              ...Find a more complete list on my <a href="#">resume</a>
+              ...Find a more complete list on my{" "}
+              <a
+                href="../../public/assets/img/resume/john-kaplanis-resume.pdf"
+                target="_blank"
+              >
+                resume
+              </a>
             </li>
           </ul>
         </div>
