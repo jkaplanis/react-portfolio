@@ -1,4 +1,5 @@
 import React from "react";
+import pdf from "../resume/john-kaplanis-resume.pdf";
 
 function Resume() {
   return (
@@ -110,10 +111,7 @@ function Resume() {
               >
                 Resume
               </span>
-              <a
-                href="assets/img/resume/john-kaplanis-resume.pdf"
-                target="_blank"
-              >
+              <a href={pdf} target="_blank" rel="noopener noreferrer">
                 pdf
               </a>
             </p>
@@ -136,10 +134,7 @@ function Resume() {
             <li>MongoDB</li>
             <li>
               ...Find a more complete list on my{" "}
-              <a
-                href="assets/img/resume/john-kaplanis-resume.pdf"
-                target="_blank"
-              >
+              <a href={pdf} target="_blank" rel="noopener noreferrer">
                 resume
               </a>
             </li>
