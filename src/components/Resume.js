@@ -135,7 +135,7 @@ function Resume() {
             <li className="mb-3">Express</li>
             <li className="mb-3">Bootstrap</li>
             <li className="mb-3">
-              ...For a complete list see my{" "}
+              For a complete list see my{" "}
               <a href={pdf} target="_blank" rel="noopener noreferrer">
                 resume
               </a>
