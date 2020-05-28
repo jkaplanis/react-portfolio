@@ -39,12 +39,10 @@ function AboutMe() {
           <div className="row">
             <div className="col-lg-8 mx-auto mb-3 text-center">
               <p className="large text-muted">
-                Software Developer with a certificate in Full Stack Web
-                Development (MERN Stack) from the University of California, San
-                Diego. Throughout this program I have worked both independently
-                and as a team, becoming proficient in agile development and
-                Github version control. Driven, detail oriented programmer with
-                a passion for problem solving, collaboration, and learning.
+                Full Stack Software Developer (MERN Stack). Proficient in agile
+                development and Github version control. Driven, detail oriented
+                programmer with a passion for problem solving, collaboration,
+                and learning. Experience working independently and as a team.
                 Positioned well to provide unique perspectives on how end-users
                 interact with websites and software platforms by leveraging a
                 background in technology-focused sales and marketing.

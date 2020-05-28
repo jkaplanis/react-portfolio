@@ -127,13 +127,15 @@ function Resume() {
             className="text-left text-muted"
             style={{ listStyleType: "none", fontWeight: "bold" }}
           >
-            <li>JavaScript</li>
-            <li>HTML/CSS</li>
-            <li>NodeJS</li>
-            <li>React</li>
-            <li>MongoDB</li>
-            <li>
-              ...Find a more complete list on my{" "}
+            <li className="mb-3">React</li>
+            <li className="mb-3">JavaScript</li>
+            <li className="mb-3">HTML/CSS</li>
+            <li className="mb-3">NodeJS</li>
+            <li className="mb-3">MongoDB</li>
+            <li className="mb-3">Express</li>
+            <li className="mb-3">Bootstrap</li>
+            <li className="mb-3">
+              ...For a complete list see my{" "}
               <a href={pdf} target="_blank" rel="noopener noreferrer">
                 resume
               </a>
