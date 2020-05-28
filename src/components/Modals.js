@@ -40,7 +40,7 @@ function Modals() {
                           Demo
                         </a>
                         <a
-                          className="btn btn-primary"
+                          className="btn btn-primary mx-2"
                           type="button"
                           href={modal.repoLink}
                           target="_blank"
