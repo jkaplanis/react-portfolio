@@ -3,6 +3,7 @@ import Nav from "./components/Nav";
 import Header from "./components/Header";
 import AboutMe from "./components/AboutMe";
 import Resume from "./components/Resume";
+import Contact from "./components/Contact";
 import Portfolio from "./components/Portfolios";
 import Footer from "./components/Footer";
 import Modals from "./components/Modals";
@@ -21,6 +22,7 @@ function App() {
       <Header />
       <AboutMe />
       <Resume />
+      <Contact />
       <Portfolio />
       <Footer />
       <Modals />

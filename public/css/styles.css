@@ -10,6 +10,12 @@
  * Copyright 2011-2019 Twitter, Inc.
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
  */
+.skillsWrapper {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  grid-gap: 10px;
+}
+
 :root {
   --blue: #007bff;
   --indigo: #6610f2;
@@ -10849,7 +10855,7 @@ section#contact {
   background-position: center;
 }
 section#contact .section-heading {
-  color: #fff;
+  color: #212529;
 }
 section#contact form#contactForm .form-group {
   margin-bottom: 1.5rem;
