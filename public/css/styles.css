@@ -10,10 +10,28 @@
  * Copyright 2011-2019 Twitter, Inc.
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
  */
-.skillsWrapper {
+/* .skillsWrapper {
   display: grid;
   grid-template-columns: repeat(2, 1fr);
   grid-gap: 10px;
+} */
+
+.skillsRow {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 0 4px;
+}
+
+.skillsCol {
+  flex: 25%;
+  max-width: 25%;
+  padding: 0 4px;
+}
+
+.skillsCol img {
+  margin-top: 8px;
+  vertical-align: middle;
+  width: 100%;
 }
 
 :root {

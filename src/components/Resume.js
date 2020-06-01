@@ -38,7 +38,7 @@ function Resume() {
           </span>
           <h4 className="my-3">My Skills</h4>
 
-          <div
+          {/* <div
             className="skillsWrapper text-muted"
             style={{ listStyleType: "none", fontWeight: "bold" }}
           >
@@ -49,9 +49,26 @@ function Resume() {
             <div>MongoDB</div>
             <div>Express</div>
             <div>Bootstrap</div>
+          </div> */}
+          <div className="skillsRow text-center">
+            <div className="skillsCol">
+              <img src="assets/img/skills/bootstrap.png" alt="" />
+              <img src="assets/img/skills/express.png" alt="" />
+              <img src="assets/img/skills/mongodb.png" alt="" />
+            </div>
+            <div className="skillsCol">
+              <img src="assets/img/skills/js.png" alt="" />
+              <img src="assets/img/skills/html.png" alt="" />
+              <img src="assets/img/skills/js.jpg" alt="" />
+            </div>
+            <div className="skillsCol">
+              <img src="assets/img/skills/react.png" alt="" />
+              <img src="assets/img/skills/nodejs.png" alt="" />
+              <img src="assets/img/skills/css.png" alt="" />
+            </div>
           </div>
           <div
-            className="resumeLink text-muted mt-2"
+            className="text-left resumeLink text-muted mt-3"
             style={{ listStyleType: "none", fontWeight: "bold" }}
           >
             {" "}
