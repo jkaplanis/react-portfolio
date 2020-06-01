@@ -28,6 +28,7 @@ function Resume() {
             <img
               src="assets/img/github/github-screenshot.png"
               alt="github profile"
+              style={{ padding: "4px", margin: "4px" }}
             />
           </a>
         </div>
