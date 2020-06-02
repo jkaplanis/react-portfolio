@@ -26,11 +26,11 @@ function Nav() {
                 About Me
               </a>
             </li>
-            <li className="nav-item">
+            {/* <li className="nav-item">
               <a className="nav-link js-scroll-trigger" href="#resume">
                 Resume
               </a>
-            </li>
+            </li> */}
             <li className="nav-item">
               <a className="nav-link js-scroll-trigger" href="#contact">
                 Contact

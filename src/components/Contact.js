@@ -42,7 +42,7 @@ function Contact() {
               </span>
               San Diego, CA
             </p>
-            <p className="text-muted">
+            {/* <p className="text-muted">
               <span
                 style={{
                   fontWeight: "bold",
@@ -53,7 +53,7 @@ function Contact() {
                 Phone
               </span>
               831-524-0658
-            </p>
+            </p> */}
             <p className="text-muted">
               <span
                 style={{
@@ -79,6 +79,16 @@ function Contact() {
                 Education
               </span>
               Certificate in Full Stack Web Development, UCSD Extension
+            </p>
+            <p className="text-muted">
+              <span
+                style={{
+                  fontWeight: "bold",
+                  display: "inline-block",
+                  width: 90
+                }}
+              ></span>
+              B.A. in Business Management Economics, UCSC
             </p>
             <p className="text-muted">
               <span

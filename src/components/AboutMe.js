@@ -39,13 +39,12 @@ function AboutMe() {
           <div className="row">
             <div className="col-lg-8 mx-auto mb-3 text-center">
               <p className="large text-muted">
-                Full Stack Software Developer (MERN Stack). Proficient in agile
-                development and Github version control. Driven, detail oriented
-                programmer with a passion for problem solving, collaboration,
-                and learning. Experience working independently and as a team.
-                Positioned well to provide unique perspectives on how end-users
-                interact with websites and software platforms by leveraging a
-                background in technology-focused sales and marketing.
+                I am a Full Stack Software Developer (MERN Stack) with a passion
+                for problem solving and learning. I enjoy collaborating with
+                team members to efficiently build intuitive features and apps.
+                My background in technology-focused sales and marketing has
+                positioned me well to provide unique perspectives on how
+                end-users interact with web-apps and platforms. .
               </p>
             </div>
           </div>
