@@ -12,7 +12,7 @@ function AboutMe() {
             <div className="team-member">
               <img
                 className="mx-auto img-thumbnail"
-                src="assets/img/team/Profile photo.jpeg"
+                src="assets/img/team/profile-photo.jpeg"
                 alt="John profile"
               />
               <h4>John Kaplanis</h4>
@@ -44,7 +44,7 @@ function AboutMe() {
                 team members to efficiently build intuitive features and apps.
                 My background in technology-focused sales and marketing has
                 positioned me well to provide unique perspectives on how
-                end-users interact with web-apps and platforms. .
+                end-users interact with web-apps and platforms.
               </p>
             </div>
           </div>
