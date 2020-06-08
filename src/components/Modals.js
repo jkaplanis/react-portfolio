@@ -29,7 +29,10 @@ function Modals() {
                           src={modal.img}
                           alt={modal.alt}
                         />
+                        <h4>Description</h4>
                         <p>{modal.description}</p>
+                        <h4>Technologies</h4>
+                        <p>{modal.technologies}</p>
                         <a
                           className="btn btn-primary"
                           type="button"

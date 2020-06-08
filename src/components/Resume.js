@@ -33,13 +33,15 @@ function Resume() {
           </a>
         </div>
         <div className="col-md-6">
-          <span className="fa-stack fa-4x">
-            <i className="fas fa-circle fa-stack-2x text-primary" />
-            <i className="fas fa-laptop fa-stack-1x fa-inverse" />
-          </span>
+          <a href={pdf} target="_blank" rel="noopener noreferrer">
+            <span className="fa-stack fa-4x">
+              <i className="fas fa-circle fa-stack-2x text-primary" />
+              <i className="fas fa-laptop fa-stack-1x fa-inverse" />
+            </span>
+          </a>
           <h4 className="my-3">My Skills</h4>
 
-          {/* <div
+          <div
             className="skillsWrapper text-muted"
             style={{ listStyleType: "none", fontWeight: "bold" }}
           >
@@ -50,8 +52,8 @@ function Resume() {
             <div>MongoDB</div>
             <div>Express</div>
             <div>Bootstrap</div>
-          </div> */}
-          <div className="skillsRow text-center">
+          </div>
+          {/* <div className="skillsRow text-center">
             <div className="skillsCol">
               <img src="assets/img/skills/bootstrap.png" alt="" />
               <img src="assets/img/skills/express.png" alt="" />
@@ -67,9 +69,9 @@ function Resume() {
               <img src="assets/img/skills/nodejs.png" alt="" />
               <img src="assets/img/skills/css.png" alt="" />
             </div>
-          </div>
+          </div> */}
           <div
-            className="text-left resumeLink text-muted mt-3"
+            className="text-center resumeLink text-muted mt-3"
             style={{ listStyleType: "none", fontWeight: "bold" }}
           >
             {" "}
