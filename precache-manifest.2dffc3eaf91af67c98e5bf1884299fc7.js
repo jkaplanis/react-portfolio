@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3a96195d016dd8442ee98e0a5a80daef",
+    "revision": "8083b5e21fe0bd7c3a330b97d9777e65",
     "url": "./index.html"
   },
   {
@@ -12,15 +12,15 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "./static/js/2.e76959b7.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "2aae7c8756e8ccea6f36",
-    "url": "./static/js/main.3fcbf71c.chunk.js"
+    "revision": "c61f90a064e7dd860ba2",
+    "url": "./static/js/main.16aaa14a.chunk.js"
   },
   {
     "revision": "766cf3c57d8b7cdb1f1f",
     "url": "./static/js/runtime-main.c692c199.js"
   },
   {
-    "revision": "e654ddf21ab1e4744e1e45d4733e9166",
-    "url": "./static/media/john-kaplanis-resume.e654ddf2.pdf"
+    "revision": "ee982ed366978c8283d3cd6309d9b96c",
+    "url": "./static/media/john-kaplanis-resume.ee982ed3.pdf"
   }
 ]);
