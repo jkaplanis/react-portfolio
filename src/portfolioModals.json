@@ -1,6 +1,26 @@
 [
   {
-    "id": "portfolioModal1",
+    "id": "portfolioModalKw",
+    "title": "Killer Whale",
+    "img": "assets/img/portfolio/kw-products.png",
+    "alt": "Killer Whale products page",
+    "description": "Killer Whale is a company that sells investment templates and signals, while also providing educational guides and informative articles around the topic of Crypto investing. This app allows users to search articles, watch videos, and filter products based on provided criteria.",
+    "technologies": "JavaScript, Nextjs, Material UI, Strapi",
+    "demoLink": "https://kw-frontend-abs5o.ondigitalocean.app/",
+    "repoLink": "https://github.com/tylorkolbeck/kw-frontend"
+  },
+  {
+    "id": "portfolioModalPs",
+    "title": "Pet Stress",
+    "img": "assets/img/portfolio/petstress-checkout.png",
+    "alt": "Pet Stress checkout form",
+    "description": "Pet Stress is a company focused on pet health and wellbeing. They sell a subscription based product through multiple channels including direct. This checkout form allows customers to easily select their subscription type and provide their payment method in an intuitive, step-by-step process.",
+    "technologies": "JavaScript, React, Material UI, Google Firebase",
+    "demoLink": "https://shop.petstress.co/",
+    "repoLink": ""
+  },
+  {
+    "id": "portfolioModalAgora",
     "title": "Agora",
     "img": "assets/img/portfolio/agora-search.png",
     "alt": "tutor search",
@@ -38,35 +58,5 @@
     "technologies": "JavaScript, HTML, CSS, React, Bootstrap 4, Axios",
     "demoLink": "https://jkaplanis.github.io/react-user-directory/",
     "repoLink": "https://github.com/jkaplanis/react-user-directory"
-  },
-  {
-    "id": "portfolioModal5",
-    "title": "Day Planner",
-    "img": "assets/img/portfolio/day-planner.png",
-    "alt": "day planner",
-    "description": "An app that allows users to add tasks to their calendar for the day while keeping track of the current time.",
-    "technologies": "JavaScript, HTML, CSS, jQuery",
-    "demoLink": "https://jkaplanis.github.io/day-planner/",
-    "repoLink": "https://github.com/jkaplanis/day-planner"
-  },
-  {
-    "id": "portfolioModal6",
-    "title": "Burger Logger",
-    "img": "assets/img/portfolio/burger-logger.png",
-    "alt": "burger",
-    "description": "This is a burger logger in which burgers are added to the database via the input form and updated to the devoured column by clicking the devour it button.",
-    "technologies": "JavaScript, HTML, CSS, MySQL, Node, Express, and Handlebars",
-    "demoLink": "https://salty-brushlands-08932.herokuapp.com/",
-    "repoLink": "https://github.com/jkaplanis/burger"
-  },
-  {
-    "id": "portfolioModal7",
-    "title": "Weather Dashboard",
-    "img": "assets/img/portfolio/weather-dashboard.png",
-    "alt": "weather",
-    "description": "A weather dashboard app that uses ajax calls to produce same day weather and a 5-day forecast for a given city. Data is persisted via local storage.",
-    "technologies": "JavaScript, HTML, CSS, jQuery",
-    "demoLink": "https://jkaplanis.github.io/weather-dashboard/",
-    "repoLink": "https://github.com/jkaplanis/weather-dashboard"
   }
 ]

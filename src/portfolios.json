@@ -1,6 +1,18 @@
 [
   {
-    "href": "#portfolioModal1",
+    "href": "#portfolioModalKw",
+    "coverimage": "assets/img/portfolio/kw.png",
+    "title": "Killer Whale",
+    "alt": "killer whale app"
+  },
+  {
+    "href": "#portfolioModalPs",
+    "coverimage": "assets/img/portfolio/petstress-pup.png",
+    "title": "Pet Stress",
+    "alt": "Pet Stress checkout form"
+  },
+  {
+    "href": "#portfolioModalAgora",
     "coverimage": "assets/img/portfolio/agora.png",
     "title": "Agora",
     "alt": "tutor app"
@@ -22,23 +34,5 @@
     "coverimage": "assets/img/portfolio/employee-directory.png",
     "title": "Employee Directory",
     "alt": "employee directory"
-  },
-  {
-    "href": "#portfolioModal5",
-    "coverimage": "assets/img/portfolio/calendar.png",
-    "title": "Day Planner",
-    "alt": "calendar"
-  },
-  {
-    "href": "#portfolioModal6",
-    "coverimage": "assets/img/portfolio/burger.jpg",
-    "title": "Burger Tracker",
-    "alt": "burger"
-  },
-  {
-    "href": "#portfolioModal7",
-    "coverimage": "assets/img/portfolio/weather.png",
-    "title": "Weather Dashboard",
-    "alt": "weather"
   }
 ]
